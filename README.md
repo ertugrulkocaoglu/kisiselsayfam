@@ -1,13 +1,9 @@
-# kisiselsayfam
-Kişisel Sayfam Detaylandırma
-
 <!DOCTYPE html>
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ertuğrul Kocaoğlu</title>
-</head>
+  </head>
 <body>
   <h1>Hakkımda</h1>
   <p>Merhaba. Ben Ertuğrul Kocaoğlu Temmuz 1996 İstanbul doğumluyum İGÜ Aşçılık mezunuyum 2 sene önce Çanakkaleye taşındım. Bir süredir web geliştirme ile ilgileniyorum ve eğitim alıyorum.</p>

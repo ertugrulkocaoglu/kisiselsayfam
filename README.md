@@ -1,0 +1,2 @@
+# kisiselsayfam
+Kişisel Sayfam Detaylandırma

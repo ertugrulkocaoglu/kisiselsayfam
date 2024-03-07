@@ -12,7 +12,7 @@
     <li>
       <h3>Film</h3>
       <ul>
-        <li><a href="https://www.imdb.com/title/tt0325980/?ref_=fn_al_tt_1">Korsanları serisi</a></li>
+        <li><a href="https://www.imdb.com/title/tt0325980/?ref_=fn_al_tt_1">Karayip Korsanları serisi</a></li>
         <li><a href="https://www.imdb.com/title/tt0050083/">12 Angry Man</a></li>
         <li><a href="https://www.imdb.com/title/tt0800369/?ref_=fn_al_tt_1">Thor serisi</a></li>
       </ul>
